@@ -1,0 +1,14 @@
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\bin\Debug\net8.0\BusinessRulesAccess.exe
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\bin\Debug\net8.0\BusinessRulesAccess.deps.json
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\bin\Debug\net8.0\BusinessRulesAccess.runtimeconfig.json
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\bin\Debug\net8.0\BusinessRulesAccess.dll
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\bin\Debug\net8.0\BusinessRulesAccess.pdb
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\obj\Debug\net8.0\BusinessRulesAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\obj\Debug\net8.0\BusinessRulesAccess.AssemblyInfoInputs.cache
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\obj\Debug\net8.0\BusinessRulesAccess.AssemblyInfo.cs
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\obj\Debug\net8.0\BusinessRulesAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\obj\Debug\net8.0\BusinessRulesAccess.dll
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\obj\Debug\net8.0\refint\BusinessRulesAccess.dll
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\obj\Debug\net8.0\BusinessRulesAccess.pdb
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\obj\Debug\net8.0\BusinessRulesAccess.genruntimeconfig.cache
+C:\Users\HP\C#-Repository\Business-rules-access\BusinessRulesAccess\obj\Debug\net8.0\ref\BusinessRulesAccess.dll
